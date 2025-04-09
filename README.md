@@ -1,6 +1,3 @@
-# snake-game
-A simple snake game built using Python and Turtle graphics with Object-Oriented Programming principles.
-
 # Snake Game in Python
 
 This is a simple Snake Game implemented in Python using the Turtle graphics library and Object-Oriented Programming (OOP) principles.
