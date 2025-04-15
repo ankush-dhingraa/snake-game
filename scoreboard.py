@@ -22,8 +22,8 @@ class Scoreboard(Turtle):
             self.update_scoreboard()
             return True
         elif self.score < self.high_score:
-            self.score = 0
-            self.update_scoreboard()
+            # self.update_scoreboard()
+            # self.score = 0
             return False
         # self.score = 0
         # self.update_scoreboard()
